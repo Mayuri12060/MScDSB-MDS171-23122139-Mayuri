@@ -1,0 +1,6 @@
+Name	:	mayuri
+phone	:	grapes
+Phone	:	20
+Name	:	pratham 
+product	:	 bananas
+quantity:	12
