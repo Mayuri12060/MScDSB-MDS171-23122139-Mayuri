@@ -13,6 +13,9 @@ for i in range(0,99,1):
     Q=random.randint(0,9)
     P=random.randint(0,9)
     file.write(choco_list[I]+","+qty[Q]+","+price[P]+"\n")
+file.close()
+
+
 
 
 

@@ -5,7 +5,7 @@
 # - view transactions;
 # - calculate the total expense/income
 class expenseTracker:
-    def _init_(self):
+    def __init__(self):
         self.expenseDict = {
             "income": [],
             "expense": [],
@@ -88,4 +88,4 @@ while True:
     elif choice == 6:
         exit()
     else:
-        print("In valid choice")
+        print("Invalid choice")
