@@ -49,8 +49,6 @@ class expenseTracker:
 
 # define a menu that will let users to enter expense, view expenses
 # or income, get totals in each and exit from the program
-
-
 def collectInput():
     amt = int(input("Enter the amout: "))
     category = input("Enter Category: ")

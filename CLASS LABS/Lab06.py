@@ -14,6 +14,11 @@ for i in range(0,99,1):
     P=random.randint(0,9)
     file.write(choco_list[I]+","+qty[Q]+","+price[P]+"\n")
 file.close()
+import pandas as pd
+
+df = pd.read_csv('Inventory.csv')
+
+print(df.to_string())
 
 
 

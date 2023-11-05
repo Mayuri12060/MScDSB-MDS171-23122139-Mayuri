@@ -1,0 +1,5 @@
+append used to add items to list
+to access any particular item ,type listname.[indexno.]
+to acces any item in dictionary ,for item in  dict __print(key_name)---->output=values
+if pets is a dictionary and in it we have various lsits as (dog,cat,etc) then for searching for values we call it as 
+---->dict_name['list.name/key_name']

@@ -1,5 +1,5 @@
 Name	:	mayuri
-phone	:	grapes
+product	:	grapes
 Phone	:	20
 Name	:	pratham 
 product	:	 bananas

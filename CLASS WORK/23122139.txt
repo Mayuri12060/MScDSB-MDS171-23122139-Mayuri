@@ -1,0 +1,100 @@
+choco_list,qty,price
+cadbury,7,10
+bournville,3,20
+mango bite,3,10
+bournville,10,10
+bournville,5,20
+mango bite,7,10
+kitkat,2,10
+5  star,7,10
+alpenlibe,3,10
+cadbury,10,20
+milkybar,4,20
+kitkat,1,10
+kitkat,7,10
+bounty,4,20
+bournville,4,10
+5  star,4,10
+ferrero rocher,4,10
+kitkat,4,20
+kitkat,8,20
+bournville,4,10
+alpenlibe,3,20
+ferrero rocher,7,20
+5  star,3,10
+bounty,10,20
+bounty,9,10
+kitkat,10,20
+bournville,10,10
+bounty,10,20
+milkybar,1,10
+ferrero rocher,4,10
+mango bite,9,10
+bournville,4,10
+mango bite,8,10
+kitkat,10,20
+alpenlibe,1,20
+ferrero rocher,3,20
+milkybar,9,20
+5  star,9,20
+ferrero rocher,1,20
+ferrero rocher,9,10
+cadbury,3,20
+bournville,6,20
+5  star,8,20
+mango bite,8,10
+bounty,10,20
+ferrero rocher,7,20
+alpenlibe,3,10
+ferrero rocher,3,10
+cadbury,7,20
+bounty,4,10
+bounty,3,20
+bournville,5,20
+bounty,7,10
+cadbury,9,20
+milkybar,8,10
+cadbury,3,20
+ferrero rocher,4,10
+eclairs,4,10
+kitkat,1,10
+bounty,1,20
+cadbury,2,10
+alpenlibe,5,20
+ferrero rocher,7,20
+cadbury,2,10
+kitkat,4,20
+cadbury,10,10
+mango bite,8,20
+kitkat,3,10
+milkybar,6,20
+alpenlibe,4,10
+ferrero rocher,5,20
+milkybar,9,10
+alpenlibe,10,20
+bournville,10,20
+alpenlibe,10,10
+milkybar,8,20
+ferrero rocher,3,10
+mango bite,7,20
+ferrero rocher,1,20
+bournville,1,10
+alpenlibe,8,20
+milkybar,10,20
+alpenlibe,8,10
+eclairs,8,20
+5  star,3,20
+mango bite,3,10
+milkybar,9,10
+alpenlibe,8,10
+cadbury,1,10
+ferrero rocher,3,20
+kitkat,2,20
+alpenlibe,5,20
+bounty,9,10
+bournville,10,20
+milkybar,7,20
+mango bite,2,20
+bournville,9,10
+eclairs,9,20
+milkybar,4,20
